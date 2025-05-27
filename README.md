@@ -1,7 +1,7 @@
 # <h1 align = "center" padding-bottom = 10 >Hi there 👋 <a href = 'https://www.linkedin.com/in/muhammed-althaf-a-870947364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' >Muhammed Althaf</a> here! 😎</h1>
 ## <h1 align="center">Deviox 🧑🏼‍💻☕</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%230077B5)](https://www.linkedin.com/in/bibek-barik-099247259/)
+[![LinkedIn](https://www.linkedin.com/in/muhammed-althaf-a-870947364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/bibek-barik-099247259/)
 
 ### My Stats 🔥
 ![LeetCode Stats](https://leetcard.jacoblin.cool/muhammed_althaf?ext=activity)
